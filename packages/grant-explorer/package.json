@@ -122,7 +122,7 @@
     "autoprefixer": "^10.4.7",
     "eslint-config-gitcoin": "workspace:*",
     "jest-localstorage-mock": "^2.4.22",
-    "postcss": "^8.4.14",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.3",
     "tailwind-styled-components": "^2.1.7",
     "tailwindcss": "^3.0.24"
