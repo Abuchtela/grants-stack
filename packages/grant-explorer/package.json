@@ -99,7 +99,7 @@
     "util": "^0.12.4",
     "wagmi": "0.12.18",
     "web-vitals": "^2.1.0",
-    "webpack": ">=2"
+    "webpack": ">=5.104.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
